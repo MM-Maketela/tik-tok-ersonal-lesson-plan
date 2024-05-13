@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tik-tok-ersonal-lesson-plan/static/css/main.f41061a5.css",
+    "main.css": "/tik-tok-ersonal-lesson-plan/static/css/main.043280be.css",
     "main.js": "/tik-tok-ersonal-lesson-plan/static/js/main.41be62fb.js",
     "static/js/453.9ab84ad9.chunk.js": "/tik-tok-ersonal-lesson-plan/static/js/453.9ab84ad9.chunk.js",
     "static/media/o9vHAP.jpg": "/tik-tok-ersonal-lesson-plan/static/media/o9vHAP.31d5437e9193da40ecea.jpg",
     "static/media/doc.jpg": "/tik-tok-ersonal-lesson-plan/static/media/doc.efa884447fda4e18266b.jpg",
     "static/media/mobile-wallpapers-15.jpg": "/tik-tok-ersonal-lesson-plan/static/media/mobile-wallpapers-15.cf93c2eeadebaa48cdb2.jpg",
     "index.html": "/tik-tok-ersonal-lesson-plan/index.html",
-    "main.f41061a5.css.map": "/tik-tok-ersonal-lesson-plan/static/css/main.f41061a5.css.map",
+    "main.043280be.css.map": "/tik-tok-ersonal-lesson-plan/static/css/main.043280be.css.map",
     "main.41be62fb.js.map": "/tik-tok-ersonal-lesson-plan/static/js/main.41be62fb.js.map",
     "453.9ab84ad9.chunk.js.map": "/tik-tok-ersonal-lesson-plan/static/js/453.9ab84ad9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f41061a5.css",
+    "static/css/main.043280be.css",
     "static/js/main.41be62fb.js"
   ]
 }
