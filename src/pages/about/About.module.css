@@ -7,12 +7,16 @@
     display: grid;
     grid-template-columns: 50% 50%;
     contain: content;
+    z-index: -1;
 }
 .image{
     width: 100%;
     height: 100%;
     opacity: .95;
     
+}
+.imageWrapper{
+    background-color: red;
 }
 .textWrapper{
     box-sizing: border-box;

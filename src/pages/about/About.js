@@ -5,7 +5,10 @@ import { TextHeader } from "../../components/text_header/TextHeader";
 export const About = () => {
   return (
     <div className={classes.about}>
+      <div className={classes.imageWrapper}>
       <img src={doc} className={classes.image} />
+      </div>
+      
 
       <div className={classes.textWrapper}>
         <TextHeader header="About Doc" size="2.5rem" />
