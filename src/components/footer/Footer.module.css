@@ -1,0 +1,22 @@
+.socialMediaIcon{
+    color: #20303c;
+}
+
+.socialMediaIcons{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    gap: .5rem;
+}

@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 4rem;
+    
+    height: 6rem;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #f9fafa;
+}
+
+.nav{
+    display: flex;
+    gap: 1rem;
+}

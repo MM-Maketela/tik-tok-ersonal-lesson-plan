@@ -1,0 +1,60 @@
+.home{
+    background-image: url('../../assets/o9vHAP.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 90%;
+    margin-inline: auto;
+    margin-top: 6rem;
+    
+    ;
+}
+
+.home{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+
+
+.wrapper{
+
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0px;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper>*{
+    margin: 0px;
+    height: fit-content !important;
+
+    
+}
+
+.firstHeaderMessage{
+    font-size: 5rem;
+    color: rgba(255, 255, 255, 0.95);
+   
+   height: 5rem;
+   
+
+}
+.secondHeaderMessage{
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 2rem;
+
+}
+
+.firstHeaderMessage,.secondHeaderMessage{
+    margin: 0px;
+    
+    
+
+}
