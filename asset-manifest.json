@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e36c091e.css",
-    "main.js": "/static/js/main.01859216.js",
-    "static/js/453.9ab84ad9.chunk.js": "/static/js/453.9ab84ad9.chunk.js",
-    "static/media/o9vHAP.jpg": "/static/media/o9vHAP.31d5437e9193da40ecea.jpg",
-    "static/media/doc.jpg": "/static/media/doc.efa884447fda4e18266b.jpg",
-    "static/media/mobile-wallpapers-15.jpg": "/static/media/mobile-wallpapers-15.cf93c2eeadebaa48cdb2.jpg",
-    "index.html": "/index.html",
-    "main.e36c091e.css.map": "/static/css/main.e36c091e.css.map",
-    "main.01859216.js.map": "/static/js/main.01859216.js.map",
-    "453.9ab84ad9.chunk.js.map": "/static/js/453.9ab84ad9.chunk.js.map"
+    "main.css": "/tik-tok-ersonal-lesson-plan/static/css/main.fcdc4eef.css",
+    "main.js": "/tik-tok-ersonal-lesson-plan/static/js/main.ed791fd9.js",
+    "static/js/453.9ab84ad9.chunk.js": "/tik-tok-ersonal-lesson-plan/static/js/453.9ab84ad9.chunk.js",
+    "static/media/o9vHAP.jpg": "/tik-tok-ersonal-lesson-plan/static/media/o9vHAP.31d5437e9193da40ecea.jpg",
+    "static/media/doc.jpg": "/tik-tok-ersonal-lesson-plan/static/media/doc.efa884447fda4e18266b.jpg",
+    "static/media/mobile-wallpapers-15.jpg": "/tik-tok-ersonal-lesson-plan/static/media/mobile-wallpapers-15.cf93c2eeadebaa48cdb2.jpg",
+    "index.html": "/tik-tok-ersonal-lesson-plan/index.html",
+    "main.fcdc4eef.css.map": "/tik-tok-ersonal-lesson-plan/static/css/main.fcdc4eef.css.map",
+    "main.ed791fd9.js.map": "/tik-tok-ersonal-lesson-plan/static/js/main.ed791fd9.js.map",
+    "453.9ab84ad9.chunk.js.map": "/tik-tok-ersonal-lesson-plan/static/js/453.9ab84ad9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e36c091e.css",
-    "static/js/main.01859216.js"
+    "static/css/main.fcdc4eef.css",
+    "static/js/main.ed791fd9.js"
   ]
 }
