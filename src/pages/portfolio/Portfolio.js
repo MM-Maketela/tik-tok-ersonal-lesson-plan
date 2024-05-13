@@ -8,7 +8,7 @@ export const Portfolio = () => {
     <div className={classes.portfolio}>
       
 
-      < TextHeader   header="portfolio" size= "5rem"/>
+      < TextHeader   header="Portfolio" size= "4rem"/>
      
      <ul className={classes.portfolioGrid}>
       <li className={classes.portfolioCardWrapper}>
