@@ -12,9 +12,9 @@ function App() {
       <Layout>
   
   <Routes>
-  <Route  path="/"  element= {<Home />}/>
-  <Route  path="/about"  element= {<About />}/>
-  <Route  path="/portfolio"  element= {<Portfolio />}/>
+  <Route  path="tik-tok-ersonal-lesson-plan/"  element= {<Home />}/>
+  <Route  path="tik-tok-ersonal-lesson-plan/about"  element= {<About />}/>
+  <Route  path="tik-tok-ersonal-lesson-plan/portfolio"  element= {<Portfolio />}/>
   {/* <Route  path="/services"  element= {<Services/>}/> */}
   {/* <Route  path="/contactUs"  element= {<ContactUs />}/> */}
   {/* <Route  path="/login"  element= {<Login />}/> */}
