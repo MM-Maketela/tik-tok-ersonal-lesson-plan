@@ -16,7 +16,7 @@
     
 }
 .imageWrapper{
-    background-color: red;
+    box-sizing: border-box;
 }
 .textWrapper{
     box-sizing: border-box;
