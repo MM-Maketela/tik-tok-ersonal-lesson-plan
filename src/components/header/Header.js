@@ -9,9 +9,9 @@ export const Header = () => {
 
       <Logo />
         <nav className={classes.nav}>
-          <Link to={"tik-tok-ersonal-lesson-plan/"} >Home</Link>
-          <Link to={"tik-tok-ersonal-lesson-plan/portfolio"} >Portfolio</Link>
-          <Link to={"tik-tok-ersonal-lesson-plan/about"} >About</Link>
+          <Link to={"/"} >Home</Link>
+          <Link to={"/portfolio"} >Portfolio</Link>
+          <Link to={"/about"} >About</Link>
         </nav>
     </div>
   )
