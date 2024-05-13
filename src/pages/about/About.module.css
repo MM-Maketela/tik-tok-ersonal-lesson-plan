@@ -1,0 +1,31 @@
+.about{
+    width: 90%;
+    margin-inline: auto;
+    height: 100vh;
+    margin-top: 6rem;
+    background-color: rgba(0, 128, 128, 0.1);
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    opacity: .95;
+}
+.textWrapper{
+    box-sizing: border-box;
+    text-align: start;
+    padding-inline: 2rem;
+   
+
+}
+.textWrapper>*{
+    box-sizing: border-box;
+    margin: 0;
+   
+}
+.textInfo{
+ text-align: start;
+ padding-left:1.8rem ;
+ font-size: 1rem;
+}
